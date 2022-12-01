@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Differentiable Adaptive Optics
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ivan
+    email: ivan.vishniakou@mpinb.mpg.de
+    family-names: Vishniakou
+    affiliation: >-
+      Max Planck Institute for Neurobiology of
+      Behavior - caesar
+  - given-names: Johannes
+    name-particle: D.
+    family-names: Seelig
+    affiliation: >-
+      Max Planck Institute for Neurobiology of
+      Behavior - caesar
+    email: johannes.seelig@mpinb.mpg.de
